@@ -1,0 +1,29 @@
+/* You can add global styles to this file, and also import other style files */
+#sign-in{
+    padding-top:100px;
+}
+
+/*Dash board CSS*/
+/*
+ * Base structure
+ */
+
+h1.page-header {
+    margin-top: -5px;
+}
+
+.sidebar {
+    padding-left: 0;
+}
+
+.main-container { 
+    background: #FFF;
+    padding-top: 15px;
+    margin-top: -20px;
+}
+
+.footer {
+    width: 100%;
+}  
+/*End of dashboard css*/
+
